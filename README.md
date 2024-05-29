@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/MarvisKidd/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/MarvisKidd/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad/blob/main/README.md)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MarvisKidd/Configuring-On-premises-Active-Directory-within-Azure-VMs)
 
 
 <h2>🤳Connect with me:</h2>
